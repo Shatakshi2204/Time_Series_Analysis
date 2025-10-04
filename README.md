@@ -8,5 +8,5 @@ The project both runs analysis on any given stock and also runs a 30 day price p
 # Stock Prediction
 <img width="1635" height="833" alt="image" src="https://github.com/user-attachments/assets/0bee1b52-8e4f-46fd-b938-b769632d87f1" />
 #Link to the active streamlit site is given below:
-[https://timeseriesanalysis-do76eacdzutikcbvpewmwx.streamlit.app/](https://timeseriesanalysis-do76eacdzutikcbvpewmwx.streamlit.app/)
+https://timeseriesanalysis-do76eacdzutikcbvpewmwx.streamlit.app
 
